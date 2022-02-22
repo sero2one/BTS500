@@ -1,18 +1,18 @@
 {
-    "name": "devnet",
-    "messagePrefix": "DARK message:\n",
-    "bip32": {
-        "public": 46090600,
-        "private": 46089520
-    },
-    "pubKeyHash": 30,
-    "nethash": "2a44f340d76ffc3df204c5f38cd355b7496c9065a1ade2ef92071436bd72e867",
-    "wif": 170,
-    "slip44": 1,
-    "aip20": 1,
-    "client": {
-        "token": "DARK",
-        "symbol": "DѦ",
-        "explorer": "https://dexplorer.ark.io"
-    }
+  "name": "devnet",
+  "messagePrefix": "QBTT message:\n",
+  "bip32": {
+    "public": 46090600,
+    "private": 46089520
+  },
+  "pubKeyHash": 30,
+  "nethash": "e7efca2d2dc831d42cc80ae1a52a8ce52fc331430540f5da0791ed412f959d45",
+  "wif": 244,
+  "slip44": 1,
+  "aip20": 1,
+  "client": {
+    "token": "QBTT",
+    "symbol": "QBTT",
+    "explorer": "http://10.0.23.129:4200"
+  }
 }
